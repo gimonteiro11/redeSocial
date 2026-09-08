@@ -277,17 +277,17 @@ body {
 
     font-size: 13px;
 
-    color: #e0e5ec;
+    color: #072652;
 }
 
 
 .likes {
-    color: #e8ebef;
+    color: #e70000;
 }
 
 
 .likes strong {
-    color: #e9eef6;
+    color: #a10808;
 }
 
 
@@ -311,7 +311,7 @@ body {
 
 
 .nav-item {
-    color: #e5e8ee;
+    color: #01050c;
 
     cursor: pointer;
 }
