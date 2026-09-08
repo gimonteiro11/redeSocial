@@ -37,7 +37,7 @@ body {
 
 
 .phone-screen {
-    background: #ede3e3;
+    background: #e660cf;
     border-radius: 32px;
     overflow: hidden;
 
@@ -101,7 +101,7 @@ body {
 
     aspect-ratio: 4 / 5;
 
-    background-color: #eee;
+    background-color: #815f5f;
 
     cursor: pointer;
 }
@@ -136,7 +136,7 @@ body {
 
     border-radius: 50%;
 
-    border: 2px solid #ffffff;
+    border: 2px solid #4b2a2a;
 
     object-fit: cover;
 }
@@ -149,7 +149,7 @@ body {
     right: -2px;
 
     background: #561296;
-    color: #ffffff;
+    color: #4530bb;
 
     font-size: 10px;
     font-weight: bold;
@@ -163,7 +163,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    border: 2px solid #ffffff;
+    border: 2px solid #81f1ac;
 }
 
 
@@ -200,7 +200,7 @@ body {
     font-size: 13px;
     font-weight: 600;
 
-    color: #ffffff;
+    color: #d18e8e;
 
     cursor: pointer;
 
@@ -259,12 +259,12 @@ body {
 ========================= */
 
 .bookmark-btn.bookmarked {
-    color: #ffffff;
+    color: #ab6fdb;
 }
 
 
 .bookmark-btn.bookmarked svg {
-    fill: #ffffff;
+    fill: #78be7e;
 }
 
 
